@@ -1,0 +1,10 @@
+"Source","U.S. Bureau of Labor Statistics, Quarterly Census of Employment and Wages"
+"Period","First Quarter(p)"
+"Industry","Total, all industries"
+"Area Name","Year","Quarter","No Of Establishments","Employment","One-Year Employment Gain/Loss (Percent)","Average Weekly Wages","On-Year Weekly Wages Gain/Loss (Percent)","Industry","FIPS","USPS"
+Bristol County,"2021","First Quarter(p)","1652","12768","-5.5","876","1.0","Total, all industries","44001","RI"
+Kent County,"2021","First Quarter(p)","5775","70006","-5.5","1053","4.3","Total, all industries","44003","RI"
+Newport County,"2021","First Quarter(p)","3546","36928","-5.3","1180","7.7","Total, all industries","44005","RI"
+Providence County,"2021","First Quarter(p)","19594","267425","-6.4","1210","2.2","Total, all industries","44007","RI"
+Washington County,"2021","First Quarter(p)","4734","48949","-3.9","981","2.0","Total, all industries","44009","RI"
+ 

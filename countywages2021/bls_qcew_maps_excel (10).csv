@@ -1,0 +1,9 @@
+"Source","U.S. Bureau of Labor Statistics, Quarterly Census of Employment and Wages"
+"Period","First Quarter(p)"
+"Industry","Total, all industries"
+"Area Name","Year","Quarter","No Of Establishments","Employment","One-Year Employment Gain/Loss (Percent)","Average Weekly Wages","On-Year Weekly Wages Gain/Loss (Percent)","Industry","FIPS","USPS"
+Hawaii County,"2021","First Quarter(p)","6231","64646","-11.4","927","6.4","Total, all industries","15001","HI"
+Honolulu County,"2021","First Quarter(p)","28255","406793","-13.1","1145","5.8","Total, all industries","15003","HI"
+Kauai County,"2021","First Quarter(p)","2993","25971","-23.0","958","5.0","Total, all industries","15007","HI"
+Maui + Kalawao County,"2021","First Quarter(p)","7036","66135","-17.7","929","0.2","Total, all industries","15009","HI"
+ 

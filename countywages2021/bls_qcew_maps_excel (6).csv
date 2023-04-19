@@ -1,0 +1,13 @@
+"Source","U.S. Bureau of Labor Statistics, Quarterly Census of Employment and Wages"
+"Period","First Quarter(p)"
+"Industry","Total, all industries"
+"Area Name","Year","Quarter","No Of Establishments","Employment","One-Year Employment Gain/Loss (Percent)","Average Weekly Wages","On-Year Weekly Wages Gain/Loss (Percent)","Industry","FIPS","USPS"
+Fairfield County,"2021","First Quarter(p)","38498","383576","-5.6","2222","8.3","Total, all industries","09001","CT"
+Hartford County,"2021","First Quarter(p)","30333","478791","-5.6","1521","0.0","Total, all industries","09003","CT"
+Litchfield County,"2021","First Quarter(p)","6374","56875","-3.4","975","3.1","Total, all industries","09005","CT"
+Middlesex County,"2021","First Quarter(p)","5711","64245","-4.3","1145","-0.1","Total, all industries","09007","CT"
+New Haven County,"2021","First Quarter(p)","26102","348520","-4.3","1205","5.1","Total, all industries","09009","CT"
+New London County,"2021","First Quarter(p)","8015","107256","-9.3","1321","7.7","Total, all industries","09011","CT"
+Tolland County,"2021","First Quarter(p)","3368","38135","-5.6","972","-1.2","Total, all industries","09013","CT"
+Windham County,"2021","First Quarter(p)","3098","36527","-4.0","904","1.6","Total, all industries","09015","CT"
+ 

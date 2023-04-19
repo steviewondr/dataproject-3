@@ -57,3 +57,5 @@ These are wages per county to use in the regression as well, I cleaned, combined
 LINK: https://data.bls.gov/maps/cew/us
 
 ----------------------------------------------------------------------------
+
+additionally, there are a bunch of dta files from what the code generates - when running the code, replace commands will make sure they stay updated or don't get in the way
